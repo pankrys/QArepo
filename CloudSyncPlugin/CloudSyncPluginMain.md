@@ -15,7 +15,7 @@ git Тестирование функционала **Автоматическа
 
 
 
-![image](/CloudSyncPlugin/images/image1.jpg "image_tooltip")
+![task](https://github.com/pankrys/QArepo/blob/main/CloudSyncPlugin/images/Image1.jpg "main task")
 
 
 
